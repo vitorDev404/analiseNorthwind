@@ -1,0 +1,14 @@
+C:\Users\vitor\source\repos\analiseNortthwind\analiseNortthwind\bin\Debug\net8.0\analiseNortthwind.exe
+C:\Users\vitor\source\repos\analiseNortthwind\analiseNortthwind\bin\Debug\net8.0\analiseNortthwind.deps.json
+C:\Users\vitor\source\repos\analiseNortthwind\analiseNortthwind\bin\Debug\net8.0\analiseNortthwind.runtimeconfig.json
+C:\Users\vitor\source\repos\analiseNortthwind\analiseNortthwind\bin\Debug\net8.0\analiseNortthwind.dll
+C:\Users\vitor\source\repos\analiseNortthwind\analiseNortthwind\bin\Debug\net8.0\analiseNortthwind.pdb
+C:\Users\vitor\source\repos\analiseNortthwind\analiseNortthwind\obj\Debug\net8.0\analiseNortthwind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\source\repos\analiseNortthwind\analiseNortthwind\obj\Debug\net8.0\analiseNortthwind.AssemblyInfoInputs.cache
+C:\Users\vitor\source\repos\analiseNortthwind\analiseNortthwind\obj\Debug\net8.0\analiseNortthwind.AssemblyInfo.cs
+C:\Users\vitor\source\repos\analiseNortthwind\analiseNortthwind\obj\Debug\net8.0\analiseNortthwind.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\analiseNortthwind\analiseNortthwind\obj\Debug\net8.0\analiseNortthwind.dll
+C:\Users\vitor\source\repos\analiseNortthwind\analiseNortthwind\obj\Debug\net8.0\refint\analiseNortthwind.dll
+C:\Users\vitor\source\repos\analiseNortthwind\analiseNortthwind\obj\Debug\net8.0\analiseNortthwind.pdb
+C:\Users\vitor\source\repos\analiseNortthwind\analiseNortthwind\obj\Debug\net8.0\analiseNortthwind.genruntimeconfig.cache
+C:\Users\vitor\source\repos\analiseNortthwind\analiseNortthwind\obj\Debug\net8.0\ref\analiseNortthwind.dll
