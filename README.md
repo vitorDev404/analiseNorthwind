@@ -1,4 +1,4 @@
-#Análise de Produtos - Northwind
+##A#nálise de Produtos - Northwind
 
 Projeto desenvolvido em C# utilizando SQL Server, CSV e Programação Orientada a Objetos.
 
@@ -48,19 +48,6 @@ A consulta realiza:
 - `Program.cs` → Menu principal
 - `QuerySQL.sql` → Query SQL utilizada
 - `Resultados.csv` → Dados exportados
-
----
-
-## 📷 Demonstração
-
-### SQL Server
-(prints)
-
-### CSV
-(prints)
-
-### Console C#
-(prints)
 
 ---
 
