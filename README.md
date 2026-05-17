@@ -8,7 +8,7 @@ Realizar consultas SQL no banco Northwind, exportar os dados para CSV e processa
 
 ---
 
-## 🛠 Tecnologias utilizadas
+##Tecnologias utilizadas
 
 - C#
 - .NET
